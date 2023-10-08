@@ -33,19 +33,19 @@ p{
     margin-left: 25px;
     border-radius: 25px;
     background-color: white;
-    box-shadow:1px 1px 5px 5px rgb(114, 113, 113);
+    box-shadow:1px 1px 5px 5px rgb(87, 85, 85);
 }
 .right{
     float: right;
     margin-right: 50px;
     margin-top: 50px;
-    box-shadow:1px 1px 5px 5px rgb(114, 113, 113);
+    box-shadow:1px 1px 5px 5px rgb(0, 0, 0);
 }
 .down{
     float: left;
     margin-top: 25px;
     margin-left: 25px;
-    box-shadow:1px 1px 5px 5px rgb(114, 113, 113);
+    box-shadow:1px 1px 5px 5px rgb(87, 86, 86);
 }
 .content{
     width: 100%;
