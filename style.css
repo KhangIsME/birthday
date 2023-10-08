@@ -53,3 +53,10 @@ p{
     text-align: center;
     background-image: url('back.png');
 }
+h1:hover{
+    transition: 1s;
+    color: rgb(135, 175, 180);
+}
+h1{
+    transition: 1s;
+}
